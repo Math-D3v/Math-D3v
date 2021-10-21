@@ -2,6 +2,8 @@
 - 👀 I’m interested in work on Front-End & Back-End projects. 🎯
 - 🌱 I’m currently learning "HTML/CSS, JavaScript, NodeJS & Python. 🤓
 - 💞️ I’m looking to collaborate on enterprises!
+- 📫 How to reach me: "math.d3vv3l0p@gmail.com".
+🎇💻🖱
 
 <div align="center">
   <a href="https://github.com/Math-D3v">
@@ -14,9 +16,7 @@
   <img align="center" alt="Math-D3v-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-D3v-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-D3v-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Math-D3v-Csharp" height="30" width="40" 
 </div>
 
   
-- 📫 How to reach me: "math.d3vv3l0p@gmail.com".
-  🎇💻🖱
+
