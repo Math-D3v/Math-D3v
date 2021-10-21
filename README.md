@@ -6,12 +6,14 @@
 🎇💻🖱
 
 <div align= "center">   
+   
    <img align="center" alt="Math-D3v-VSCode" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
    <img align="center" alt="Math-D3v-Win10" height="30" width="40"         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />      
    <img align="center" alt="Math-D3v-VS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />    
+   
 </div>
 
 <div align= "center">
