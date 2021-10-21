@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matheus Albuquerque! 😁
 - 👀 I’m interested in work on Front-End & Back-End projects. 🎯
 - 🌱 I’m currently learning "HTML/CSS, JavaScript, Python & MySQL. 🤓
-- 💞️ I’m looking to collaborate on enterprises!
+- 💞️ I’m looking to collaborate on a better future using the best technologies to help people in different ways and make your lifes easier!
 - 📫 How to reach me: "math.d3v3l0p@gmail.com".
 🎇💻🖱
 
