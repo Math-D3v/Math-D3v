@@ -25,8 +25,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
   <img align="center" alt="Math-D3v-Win10" height="30" width="40"         
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Math-D3v-GitHub" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> />
+  <img align="center" alt="Math-D3v-MySQL" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
   
